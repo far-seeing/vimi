@@ -2,6 +2,8 @@
 
 Vim miripiruni's bundle
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MrRio/jsPDF.svg)](https://komsikov.tech/)
+
 Please address bugs and your suggestions to [Issues](http://github.com/miripiruni/vimi/issues).
 
 Environment
